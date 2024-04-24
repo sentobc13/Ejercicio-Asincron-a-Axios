@@ -39,12 +39,7 @@ function showUsers() {
 // boton.addEventListener("click", showUsers)
 
 // Ahora en vez de mostrar los usuarios por consola muestra el nombre de cada uno en el DOM (en el HTML).
-// const usersMostrar = document.getElementById("userlist")
-// console.log(users);
-// // usersMostrar.innerHTML =
-// console.log(usersMostrar);
 
-//-------------------Comenzamos con la funcion para pintar
 const usersMostrar = document.getElementById("userlist");
 let boton = document.getElementById("btn");
 
